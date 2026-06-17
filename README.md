@@ -22,6 +22,7 @@ Without a consolidated reporting system, identifying these trends requires manua
 To address this challenge, an interactive Power BI dashboard was created to provide a complete view of sales performance across products, locations, customers, and time periods. The dashboard enables users to explore data dynamically using filters and interactive visualizations.
 
 📊 **Dashboard Highlights**
+
 Executive KPI Monitoring
 
 The dashboard provides a quick overview of business performance through key metrics including Total Sales, Quantity Sold, Total Transactions, and Average Selling Price.
@@ -30,25 +31,25 @@ Sales Performance Analysis
 
 Monthly sales trends help identify seasonal patterns, growth opportunities, and periods of declining performance.
 
-Insight: Business teams can forecast demand more accurately and improve inventory planning.
+**Insight:** Business teams can forecast demand more accurately and improve inventory planning.
 
 Regional Sales Analysis
 
 The map visualization highlights sales performance across different cities.
 
-Insight: High-performing regions can be targeted for expansion, while underperforming markets can be investigated further.
+**Insight:** High-performing regions can be targeted for expansion, while underperforming markets can be investigated further.
 
 Product Performance Analysis
 
 Brand-wise and model-wise analysis identifies products driving the highest revenue and sales volume.
 
-Insight: Helps optimize inventory allocation and prioritize marketing efforts for top-performing products.
+**Insight:** Helps optimize inventory allocation and prioritize marketing efforts for top-performing products.
 
 Customer Behavior Analysis
 
 Payment method and customer rating analysis provide deeper insights into customer preferences and satisfaction.
 
-Insight: Businesses can improve customer experience by aligning services with customer behavior and expectations.
+**Insight:** Businesses can improve customer experience by aligning services with customer behavior and expectations.
 
 📈 **Business Impact**
 

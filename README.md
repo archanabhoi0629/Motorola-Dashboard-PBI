@@ -68,13 +68,20 @@ Power Query
 DAX
 Data Modeling
 Data Visualization
+
 🔑 Skills Demonstrated
 Data Cleaning & Transformation
+
 Data Modeling
+
 DAX Measures & Calculations
+
 Dashboard Development
+
 Business Intelligence Reporting
+
 Data Storytelling
+
 KPI Design & Analysis
 
 📸 Dashboard Preview

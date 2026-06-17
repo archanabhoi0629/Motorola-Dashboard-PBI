@@ -1,10 +1,11 @@
 # Motorola-Dashboard-PBI
 Retail Sales Analytics Dashboard
-📌 Project Overview
+
+📌 **Project Overview**
 
 This Power BI dashboard was developed to help retail businesses monitor sales performance, customer behavior, and product demand through a centralized reporting solution. The goal was to transform raw transactional data into actionable insights that support faster and more informed business decisions.
 
-🎯 Business Problem
+🎯 **Business Problem**
 
 Retail businesses often struggle to answer critical questions such as:
 
@@ -16,12 +17,12 @@ Are customers satisfied with their purchases?
 
 Without a consolidated reporting system, identifying these trends requires manual analysis of large datasets, making decision-making slower and less efficient.
 
-💡 Solution
+💡 **Solution**
 
 To address this challenge, an interactive Power BI dashboard was created to provide a complete view of sales performance across products, locations, customers, and time periods. The dashboard enables users to explore data dynamically using filters and interactive visualizations.
 
 📊 Dashboard Highlights
-Executive KPI Monitoring
+**Executive KPI Monitoring**
 
 The dashboard provides a quick overview of business performance through key metrics including Total Sales, Quantity Sold, Total Transactions, and Average Selling Price.
 
@@ -49,7 +50,7 @@ Payment method and customer rating analysis provide deeper insights into custome
 
 Insight: Businesses can improve customer experience by aligning services with customer behavior and expectations.
 
-📈 Business Impact
+📈 **Business Impact**
 
 Using this dashboard, stakeholders can quickly identify performance trends, monitor KPIs, evaluate regional sales distribution, and make data-driven decisions without manually reviewing thousands of transaction records.
 
@@ -62,14 +63,18 @@ How purchasing behavior shifted
 
 This significantly reduces reporting effort and improves decision-making efficiency.
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 Power BI Desktop
+
 Power Query
+
 DAX
+
 Data Modeling
+
 Data Visualization
 
-🔑 Skills Demonstrated
+🔑 **Skills Demonstrated**
 Data Cleaning & Transformation
 
 Data Modeling
@@ -84,5 +89,5 @@ Data Storytelling
 
 KPI Design & Analysis
 
-📸 Dashboard Preview
+📸 **Dashboard Preview**
 ![Dashboard Preview](https://github.com/archanabhoi0629/Motorola-Dashboard-PBI/blob/main/Sales%20Performance%20Dashboard.png)

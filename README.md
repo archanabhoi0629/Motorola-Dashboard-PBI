@@ -21,8 +21,8 @@ Without a consolidated reporting system, identifying these trends requires manua
 
 To address this challenge, an interactive Power BI dashboard was created to provide a complete view of sales performance across products, locations, customers, and time periods. The dashboard enables users to explore data dynamically using filters and interactive visualizations.
 
-📊 Dashboard Highlights
-**Executive KPI Monitoring**
+📊 **Dashboard Highlights**
+Executive KPI Monitoring
 
 The dashboard provides a quick overview of business performance through key metrics including Total Sales, Quantity Sold, Total Transactions, and Average Selling Price.
 

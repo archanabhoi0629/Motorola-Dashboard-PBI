@@ -78,4 +78,4 @@ Data Storytelling
 KPI Design & Analysis
 
 📸 Dashboard Preview
-https://github.com/archanabhoi0629/Motorola-Dashboard-PBI/blob/main/Sales%20Performance%20Dashboard.png
+![Dashboard Preview](https://github.com/archanabhoi0629/Motorola-Dashboard-PBI/blob/main/Sales%20Performance%20Dashboard.png)
